@@ -10,4 +10,8 @@ public class C {
         System.out.println("Nome do método: MC2()");
     }
 
+    public void  MC3() {
+        System.out.println("Nome do método: MC3()");
+    }
+
 }
